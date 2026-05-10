@@ -31,7 +31,7 @@ Revit API와 C#을 활용하여 복잡한 모델링 데이터를 최적화하고
 ### 📂 Major Projects
 
 #### ⚡ Revit Conduits Conversion (BIM Automation)
-**대규모 전선관 모델링 간소화 및 가시성 최적화 시스템** | `Solo Project`
+**대규모 전선관 모델링 간소화 및 가시성 최적화 시스템** 
 
 * **Core:** 산재된 전선관의 물리적 근접성을 분석하여 논리적 번들(Bundle)로 통합하는 알고리즘 및 스페이싱 로직 구현
 * **Troubleshooting:** 절대 좌표계 기반 커넥터 정보 추출을 통해 다층 구조 연결 부위의 오차 제거
