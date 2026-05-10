@@ -9,7 +9,7 @@
 ### 🚀 Technical Skills
 
 **Languages & Frameworks**
-- ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+- ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) 
 
 **Domain Knowledge**
 - ![Autodesk Revit](https://img.shields.io/badge/Autodesk%20Revit-FF0000?style=flat-square&logo=autodesk&logoColor=white) **BIM Automation**, **Revit API**, **System Integration (SI)**
@@ -34,8 +34,6 @@
   - 배관 흐름 방향 분석 및 지지점 배치 로직 자동화
 - **Revit Conduits Conversion System**
   - 대규모 전선관 데이터 분석 및 최적화 시스템 구축
-- **GEDB (Personal Project)**
-  - Excel 기반 데이터 관리의 한계를 극복하기 위한 React/Node.js/PostgreSQL 기반 관리 시스템
 
 ---
 
@@ -43,12 +41,11 @@
 
 - 🏋️ 꾸준한 **근력 운동**을 통해 개발에 필요한 체력을 기릅니다.
 - ⛰️ 주말에는 **등산**을 즐기며 새로운 시각을 얻곤 합니다.
-- 🎥 기술을 공유하고 시각화하는 **콘텐츠 제작**에도 관심이 많습니다.
-
+  
 ---
 
 ### 📫 Contact Me
 
 - **Github:** [SunghyunBack](https://github.com/SunghyunBack)
 - **Phone:** 010-8682-5001
-- **Email:** [본인 이메일 주소 입력]
+- **Email:** tjdgus4869@naver.com
